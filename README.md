@@ -74,13 +74,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=rbrajeshkamle&theme=tokyonight"/>
-</p>
 
 ---
 
