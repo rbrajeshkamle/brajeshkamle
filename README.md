@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brajesh Kamle</h1>
 
-<h3 align="center">🚀 Java & MERN Stack Developer </h3>
+<h3 align="center"> Java & MERN Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;MERN+Stack+Developer;Spring+Boot+Developer;Frontend+Developer;Always+Learning+New+Things">
@@ -12,7 +12,7 @@
 
 - 🌱 MERN Stack & Java Devloper
 - 💻 Building real-world projects
-- 🎓 BCA Student
+- 🎓 BCA Complete
 - 🚀 Passionate about Developing a Web
 - 📫 Reach me at: brajeshkamle2@gmail.com
 
@@ -84,7 +84,7 @@
 # 🔗 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/linkedin.com/in/brajesh-kamle-b703a7290 target="blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -92,11 +92,7 @@
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK" target="blank">
-<img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/91XXXXXXXXXX" target="blank">
+<a href="https://wa.me/91 8120686535" target="blank">
 <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
