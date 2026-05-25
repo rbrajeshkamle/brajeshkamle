@@ -80,7 +80,7 @@
 # 🔗 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/brajesh-kamle-b703a7290 target="blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/brajesh-kamle-b703a7290/ target="blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
